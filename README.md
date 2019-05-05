@@ -1,16 +1,25 @@
 # Pixel Art Maker Project
 
-## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Introduction
+
+* "Pixel Art Maker" project is a part of Udacity's _Intro to Programming Nanodegree_. In this project, I built a single-page web app that allows people to draw the pixel art with customizable color and canvas.
+
+## Required skills
+
+* Basic HTML
+* Basic CSS
+* JavaScript 
 
 ## Instructions
+* In this project, the starter code such as HTML and CSS has been provided. We need to wirte JavaScript code to fulfill the fucntion of Pixel Art Maker, in which users can generate the grid of squares to represent their design and the color is changable. Specifically, the users can:
+1. Dynamically change the size of canvas 
+2. Set the color 
+3. Click a cell in the grid to paint that cell with the picked color
 
-To get started, open `designs.js` and start building out the app's functionality.
+## Test
+* Download or clone this repository
+* Open the index.html with browser (Recommended: Google Chrome)
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Note
+* Color picker fucntion won't function in Safari. 
