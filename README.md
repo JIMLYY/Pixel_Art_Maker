@@ -22,4 +22,4 @@
 * Open the index.html with browser (Recommended: Google Chrome)
 
 ## Note
-* Color picker fucntion won't function in Safari. 
+* Color picker won't function in Safari. 
