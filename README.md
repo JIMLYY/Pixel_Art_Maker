@@ -3,7 +3,7 @@
 
 ## Introduction
 
-* "Pixel Art Maker" project is a part of Udacity's _Intro to Programming Nanodegree_. In this project, I built a single-page web app that allows people to draw the pixel art with customizable color and canvas.
+* "Pixel Art Maker" project is a part of Udacity's _Intro to Programming Nanodegree_. In this project, I built a single-page web app that allows people to draw the pixel art with customized color and canvas.
 
 ## Required skills
 
