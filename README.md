@@ -23,3 +23,6 @@
 
 ## Note
 * Color picker won't function in Safari. 
+
+## Demo
+![Demo](https://github.com/JIMLYY/Pixel_Art_Maker/blob/master/demo.png "Demo")
